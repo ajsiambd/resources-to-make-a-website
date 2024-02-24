@@ -1,0 +1,161 @@
+/* -------------------------------------------------------
+----------Header */
+
+.h-1{
+    font-size: 42px;
+    margin: 10px 0;
+}
+.h-2{
+    font-size: 36px;
+    margin: 10px 0;
+}
+.h-3{
+    font-size: 30px;
+    margin: 10px 0;
+}
+.h-4{
+    font-size: 24px;
+    margin: 10px 0;
+}
+.h-5{
+    font-size: 20px;
+    margin: 10px 0;
+}
+/* color */
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.pink{
+    color: pink;
+}
+.white{
+    color: white;
+}
+/* Background */
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-pink{
+    background-color: pink;
+}
+/* border */
+.bd-2-red{
+    border: 2px solid red;
+}
+.bd-2-green{
+    border: 2px solid green;
+}
+.bd-2-blue{
+    border: 2px solid blue;
+}
+.bd-2-yellow{
+    border: 2px solid yellow;
+}
+.bd-2-pink{
+    border: 2px solid pink;
+}
+.bd-4-red{
+    border: 4x solid red;
+}
+.bd-4-green{
+    border: 4px solid green;
+}
+.bd-4-blue{
+    border: 4px solid blue;
+}
+.bd-4-yellow{
+    border: 4px solid yellow;
+}
+.bd-4-pink{
+    border: 4px solid pink;
+}
+.bd-6-red{
+    border: 6px solid red;
+}
+.bd-6-green{
+    border: 6px solid green;
+}
+.bd-6-blue{
+    border: 6px solid blue;
+}
+.bd-6-yellow{
+    border: 6px solid yellow;
+}
+.bd-6-pink{
+    border: 6px solid pink;
+}
+.bd-black{
+    border: 5px solid black;
+}
+/* Padding */
+.p-1{
+   padding: 2px;
+}
+.p-2{
+    padding: 5px;
+}
+.p-3{
+    padding: 10px;
+}
+/*  Margin */
+.m-1{
+    margin: 2px;
+}
+.m-2{
+    margin: 5px;
+}
+.m-3{
+    margin: 10px;
+}
+.m-4{
+    margin: 15px;
+}
+.m-5{
+    margin: 20px;
+}
+.m-6{
+    margin: 30px;
+}
+.m-7{
+    margin: 40px;
+}
+.m-8{
+    margin: 50px;
+}
+.m-9{
+    margin: 100px;
+}
+.m-10{
+    margin:200px;
+}
+/* flex----------------------------------------------------------------------------------------------------------------------------------------------- */
+.flex .nav{
+    display: flex;
+}
+.block{
+    display: block;
+}
+.grid{
+    display:grid;
+}
+.hide{
+    display: none;
+}
